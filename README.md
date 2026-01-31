@@ -688,50 +688,11 @@ docker-compose -f docker-compose.prod.yml up -d --scale core=3
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Code Style
-
-- **Backend**: Follow NestJS conventions, use ESLint + Prettier
-- **Core**: Follow PEP 8, use Ruff for linting
-- **Frontend**: Follow React best practices, use ESLint + Prettier
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## 🙏 Acknowledgments
-
-- [NestJS](https://nestjs.com/) - Progressive Node.js framework
-- [FastAPI](https://fastapi.tiangolo.com/) - Modern Python web framework
-- [Agno](https://github.com/agno-agi/agno) - Agentic AI framework
-- [Milvus](https://milvus.io/) - Vector database
-- [Prisma](https://www.prisma.io/) - Next-generation ORM
-- [Radix UI](https://www.radix-ui.com/) - Unstyled UI components
-
----
-
-## 📧 Contact
-
-For questions or support, please open an issue or contact [your-email@example.com](mailto:your-email@example.com)
-
----
-
-<div align="center">
-
-**Built with ❤️ using NestJS, FastAPI, and React**
 
 ⭐ Star this repo if you find it helpful!
 
