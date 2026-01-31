@@ -39,7 +39,7 @@
 
 ## 🌟 Overview
 
-**Sarvaha AI** is a production-ready, microservices-based intelligent customer support platform that automates query resolution using advanced AI techniques. The system combines **Retrieval-Augmented Generation (RAG)**, **multi-agent orchestration**, and **real-time streaming** to provide context-aware, accurate responses to customer queries.
+**Aegis AI** is a production-ready, microservices-based intelligent customer support platform that automates query resolution using advanced AI techniques. The system combines **Retrieval-Augmented Generation (RAG)**, **multi-agent orchestration**, and **real-time streaming** to provide context-aware, accurate responses to customer queries.
 
 ### Key Highlights
 
@@ -56,7 +56,7 @@
 
 ### 🤖 AI & Intelligence
 
-- **Multi-Agent Orchestration** using Agno framework
+- **Multi-Agent Orchestration** using **Agno** framework
   - Query expansion agent for better search results
   - Video search agent for multimedia content
   - Descriptor agent for content analysis
