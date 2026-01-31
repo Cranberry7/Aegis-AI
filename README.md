@@ -1,4 +1,4 @@
-# 🤖 Sarvaha AI - Intelligent Customer Support Platform
+# Aegis AI - Intelligent Customer Support Platform
 
 <div align="center">
 
