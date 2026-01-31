@@ -1,6 +1,5 @@
-# Aegis AI - Intelligent Customer Support Platform
-
 <div align="center">
+# Aegis AI - Intelligent Customer Support Platform
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Node](https://img.shields.io/badge/node-22.13-green.svg)
